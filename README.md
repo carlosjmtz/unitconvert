@@ -1,2 +1,3 @@
 # unitconvert
-https://travis-ci.org/closm12/unitconvert.svg?branch=master
+[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+
